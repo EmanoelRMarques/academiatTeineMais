@@ -22,3 +22,9 @@ esste sistema e voltato para uma academia pequena para realizar:
 - cores no sisttema 
 - compri os contratros com os clientes e os fucionario 
 ## telas 
+- menu  de login - entrada de cpf ou email ou telefone 
+- menu pricipal- todos os alunos matriculado 
+- menu dos alimentos- vai ter os alimentos a seguir
+- menu de treinos- todos os execicios da adademia 
+- menu de pagamento- todos clientes e funcionarios vai ter seus contratro
+- menu de pefil- todos teram um pefil obrigatorio
